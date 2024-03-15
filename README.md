@@ -1,4 +1,4 @@
-<img src="docs/src/okRust.png" width="200" height="200" align="right" alt="okRust logo">
+<img src="docs/src/okRust.png" width="200" height="200" alt="okRust logo">
 
 # okRust
 
