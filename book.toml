@@ -2,4 +2,4 @@
 authors = ["sevki"]
 language = "en"
 multilingual = false
-src = "docs"
+src = "docs/src"
